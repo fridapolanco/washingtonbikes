@@ -2,9 +2,7 @@ streamlit
 pandas
 numpy
 pycaret
-pycaret.classification
 xgboost
 matplotlib
 plotly
-python == 3.10.12
 datetime
