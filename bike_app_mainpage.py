@@ -1,6 +1,6 @@
 import streamlit as st
 from bikeprediction3 import main_bikeprediction as bikeprediction_app
-from bikeprediction3 import prediction
+#from bikeprediction3 import prediction
 from features import main_feature_engineering as main_feature_engineering_app
 from results import main_results as results_app
 from interactive import bike_rental_dashboard as dashboard_app
