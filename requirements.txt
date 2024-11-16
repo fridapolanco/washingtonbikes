@@ -5,4 +5,4 @@ pycaret
 xgboost
 matplotlib
 plotly
-python == 3.10.9
+python == 3.11
