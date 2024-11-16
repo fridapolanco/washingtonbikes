@@ -5,3 +5,4 @@ pycaret
 xgboost
 matplotlib
 plotly
+python ==3.11
